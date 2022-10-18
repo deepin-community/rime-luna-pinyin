@@ -1,0 +1,23 @@
+rime-luna-pinyin (0.0~git20210805.6e67742-3) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Mon, 20 Jun 2022 10:25:28 +0800
+
+rime-luna-pinyin (0.0~git20210805.6e67742-3) unstable; urgency=high
+
+  * Fix incorrect binary package type: arch:all -> arch:any.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 15 Feb 2022 15:31:10 -0500
+
+rime-luna-pinyin (0.0~git20210805.6e67742-2) unstable; urgency=medium
+
+  * Source-only upload. 
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 09 Feb 2022 16:27:22 -0500
+
+rime-luna-pinyin (0.0~git20210805.6e67742-1) unstable; urgency=medium
+
+  * Initial upload. (Closes: #1001887)
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 18 Dec 2021 06:27:27 -0500
